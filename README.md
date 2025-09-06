@@ -29,6 +29,8 @@ Simple and clean UI with basic CSS
 
 Feel free to fork this repository, make improvements, and submit a pull request. New ideas and contributions are always welcome!
 
+---
+
 📜 License
 
 This project is licensed under the MIT License — meaning you are free to use, copy, and modify it.
